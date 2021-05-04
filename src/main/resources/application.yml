@@ -1,0 +1,10 @@
+spring:
+  main:
+    banner-mode: "OFF"
+    web-application-type: NONE
+
+fileName: "file.zip"
+csvName: "data.csv"
+password: "pass123"
+
+baseUrl: "http://54.70.230.245:80"
